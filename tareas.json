@@ -1,0 +1,38 @@
+[
+    {
+        "titulo": "Limpiar la casa",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "Hacer la tarea",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "Bañar a mi perro",
+        "estado": "pediente"
+    },
+    {
+        "titulo": "Ir al supermercado",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Hacer pizzas",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "Tercera dosis Covid",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "Ultimo ejercicio de callback",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Nueva Tarea",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Trabajo en grupo",
+        "estado": "pendiente"
+    }
+]
